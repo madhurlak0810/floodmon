@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">floodmon</string>
+    <string name="title_activity_maps">Flood Mon</string>
+    <string name="check_status">Check Status</string>
+    <string name="flood_mon">FLOOD MON</string>
+</resources>
